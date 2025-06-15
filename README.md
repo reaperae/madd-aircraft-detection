@@ -1,6 +1,4 @@
-Here's the **fully regenerated `README.md` file**, now with the **correct vertical folder structure** formatting for GitHub:
 
----
 
 ```markdown
 # Aircraft Detection using YOLOv8 and the MADD Dataset
