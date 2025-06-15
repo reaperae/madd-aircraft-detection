@@ -1,3 +1,6 @@
+Here's the **fully regenerated `README.md` file**, now with the **correct vertical folder structure** formatting for GitHub:
+
+---
 
 ```markdown
 # Aircraft Detection using YOLOv8 and the MADD Dataset
@@ -18,12 +21,14 @@ This repository contains a full pipeline for detecting military aircraft in aeri
 
 madd-aircraft-detection/
 ├── dataset/
-│   ├── images/train/
-│   └── labels/train/
+│   ├── images/
+│   │   └── train/
+│   └── labels/
+│       └── train/
 ├── yolov8train.py
 ├── folderstructure.py
 ├── data.yaml
-├── runs/ (optional: for logs and checkpoints)
+├── runs/                 # (optional: for logs and checkpoints)
 └── README.md
 
 ````
@@ -85,9 +90,5 @@ results.show()
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
----
 
 
